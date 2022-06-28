@@ -1,8 +1,6 @@
 # Final Product:
 
-<img width="471" alt="Screen Shot 2022-06-15 at 6 46 17 PM" src="https://user-images.githubusercontent.com/52838675/173955340-785aaa1c-4af9-41f5-8991-1f20be57c9ed.png">
 
-<img width="1123" alt="Screen Shot 2022-06-15 at 5 54 26 PM" src="https://user-images.githubusercontent.com/52838675/173955848-f851a12e-9c23-40b1-a03e-6713e78125d3.png">
 
 # What I did:
 
